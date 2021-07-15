@@ -20,7 +20,7 @@ EFPN original paper: C. Deng, M. Wang, L. Liu, and Y. Liu.  Extended feature pyr
 
 Detectron2: Yuxin Wu, Alexander Kirillov, Francisco Massa and Wan-Yen Lo, & Ross Girshick. (2019). Detectron2. https://github.com/facebookresearch/detectron2.
 
-Gene chou EFPN-detectron2    https://github.com/gene-chou/EFPN-detectron2
+Gene chou, EFPN-detectron2 :   https://github.com/gene-chou/EFPN-detectron2
 
 
 
