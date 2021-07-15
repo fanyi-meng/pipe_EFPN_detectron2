@@ -1,0 +1,12 @@
+# ninja log v5
+2	457	1626168401318722944	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/cuda_version.o	3b94e43fc9314d79
+0	5471	1626168406330841421	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	93dbe252c19d40f6
+0	5543	1626168406402843123	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.o	b982a8a8d0bd26f0
+1	6326	1626168407182861565	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	d80bc679cd24dfa1
+0	8210	1626168409066906113	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	295459329042ba6f
+1	9333	1626168410154931842	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	74bee35724093c59
+0	9451	1626168410310935531	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	4e2c3aef11d9a2e6
+1	9627	1626168410486939693	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	5010200c3d03a54e
+1	9718	1626168410578941869	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	6d1fd090a6bb755
+1	12722	1626168413583012919	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda.o	3ec20536c870efb
+0	21900	1626168422747229750	/home/EFPN/detectron2/build/temp.linux-x86_64-3.8/home/EFPN/detectron2/detectron2/layers/csrc/vision.o	bd636a5116deff10
